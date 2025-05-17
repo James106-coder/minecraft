@@ -1,2 +1,0 @@
-1.21.3.jar filter=lfs diff=lfs merge=lfs -text
-1.21.3.json filter=lfs diff=lfs merge=lfs -text
